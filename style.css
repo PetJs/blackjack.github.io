@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    text-align: center;
+}
+
+.header{
+    margin: 20px;
+    font-size: 30px;
+}
+
+h1{
+    color: goldenrod;
+}
+
+.mid{
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+h3{
+    text-decoration: wavy;
+    font-style: italic;
+    margin: 20px;
+}
+
+h4{
+    margin: 20px;
+    font-size: 22px;
+}
+
+button{
+    margin: 4px;
+    width: 25vw;
+    padding: 6px;
+    background-color: goldenrod;
+    color: whitesmoke;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+}
+
+body{
+    background-color: rgba(25, 105, 25, 0.911);
+}
